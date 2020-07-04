@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phaser-template/static/css/main.a421fb84.chunk.css",
+    "main.js": "/phaser-template/static/js/main.de3602a0.chunk.js",
+    "main.js.map": "/phaser-template/static/js/main.de3602a0.chunk.js.map",
+    "runtime-main.js": "/phaser-template/static/js/runtime-main.0f51f80c.js",
+    "runtime-main.js.map": "/phaser-template/static/js/runtime-main.0f51f80c.js.map",
+    "index.html": "/phaser-template/index.html",
+    "precache-manifest.e72e6138aee9d5ec165c63be63128cc5.js": "/phaser-template/precache-manifest.e72e6138aee9d5ec165c63be63128cc5.js",
+    "service-worker.js": "/phaser-template/service-worker.js",
+    "static/css/main.a421fb84.chunk.css.map": "/phaser-template/static/css/main.a421fb84.chunk.css.map",
+    "static/media/dude.png": "/phaser-template/static/media/dude.526a78a9.png",
+    "static/media/platform.png": "/phaser-template/static/media/platform.69db09bf.png",
+    "static/media/sky.png": "/phaser-template/static/media/sky.47a86b19.png",
+    "static/media/star.png": "/phaser-template/static/media/star.a7cb585c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f51f80c.js",
+    "static/css/main.a421fb84.chunk.css",
+    "static/js/main.de3602a0.chunk.js"
+  ]
+}
